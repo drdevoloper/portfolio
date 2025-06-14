@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Online Auction System",
+    "description": "A complete online auction system with user authentication, MongoDB integration, and a responsive UI using HTML, CSS, JS, and Python Flask. Includes login/register with glassmorphism, dynamic data storage, and working routes.",
+    "tech": "HTML, CSS, JavaScript, Python",
+    "github": "https://github.com/drdevoloper/OAS",
+    "demo": "https://github.com/drdevoloper/OAS/blob/main/oac.mp4"
+  },
+  {
+    "title": "Ecommerce Website",
+    "description": "A responsive ReactJS e-commerce website for selling indoor and outdoor games with stunning carousels and smooth UI. Features include product listings, shopping cart, and dynamic navigation.",
+    "tech": "ReactJS, React Hooks, CSS, HTML, React Icons",
+    "github": "https://github.com/drdevoloper/projects/tree/main/REACTJS",
+    "demo": "https://github.com/drdevoloper/projects/blob/main/REACTJS/Ecommerce.mp4"
+  },
+  {
+    "title": "Railway Management System",
+    "description": "A desktop-based Railway Management System built using Java Swing, enabling users to book tickets, check train schedules, and manage passenger data through an interactive GUI.",
+    "tech": "Java, Jswing, JDBC, NetBeans IDE",
+    "github": "https://github.com/drdevoloper/projects/tree/main/railway%20managagement%20system",
+    "demo": "https://github.com/drdevoloper/projects/blob/main/railway%20managagement%20system/RMS.mp4"
+  },
+  {
+    "title": "IPL Score Prediction",
+    "description": "A machine learning-based IPL score prediction web app using Python for backend logic and HTML, CSS, and JavaScript for a dynamic and responsive frontend interface.",
+    "tech": "HTML, CSS, JavaScript, Python",
+    "github": "https://github.com/drdevoloper/mlcolab/tree/main/ml",
+    "demo": "https://github.com/drdevoloper/mlcolab/blob/main/ISP.mp4"
+  },
+  {
+    "title": "Travel Booking Website",
+    "description": "A full-stack Spring Boot application designed to manage backend operations efficiently, integrating with a web-based frontend for seamless user interaction. It supports REST APIs, database management, and real-time data processing.",
+    "tech": "HTML, CSS, JavaScript, Spring Boot, Maven, Mysqls",
+    "github": "https://github.com/drdevoloper/travel/tree/main/resources",
+    "demo": "https://github.com/drdevoloper/travel/blob/main/travelwebsite.mp4"
+  }
+]
